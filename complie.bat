@@ -1,0 +1,1 @@
+echo "Iam compile.bat"
