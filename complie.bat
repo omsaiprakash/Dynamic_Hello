@@ -1,1 +1,1 @@
-echo "Iam compile.bat"
+echo "this is a compile.bat file"
